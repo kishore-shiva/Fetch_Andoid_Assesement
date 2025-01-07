@@ -5,3 +5,14 @@
 2. select "Run"
 
 ## Project description
+
+Note: this app was developed as Natively as possible without using any 3rd party libraries, to ensure it works on 99.9% of android devices across all versions.
+
+1. This project was built on "JAVA" and XML native android
+2. The mainActivity class fetches the data from provided API and will:
+  2.1: Group the items based on "listId"
+  2.2: Sort the result by name inside multiple listId(s)
+  2.3: filter the items where name is "null" or blank
+
+# Screenshot of the working application:
+![image](https://github.com/user-attachments/assets/d9973a02-ff1f-46da-a58a-eff2a0defa1d)
