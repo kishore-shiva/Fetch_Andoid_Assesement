@@ -15,5 +15,6 @@ Note: this app was developed as Natively as possible without using any 3rd party
   2.3: filter the items where name is "null" or blank
 
 # Screenshot of the working application:
-![fetchassesement](https://github.com/user-attachments/assets/61dfee58-238e-456d-a930-ea65bf01bcd3)
+![fetchassesement](https://github.com/user-attachments/assets/0623ac12-da59-4b87-8936-cf51751a4aa0)
+
 
